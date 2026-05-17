@@ -1,4 +1,4 @@
-# Patient Management System — Backend
+# Healthcare System — Backend
 
 A microservices-based backend for managing patients and billing in a healthcare context. Built with Spring Boot, gRPC, Apache Kafka, and Docker.
 
